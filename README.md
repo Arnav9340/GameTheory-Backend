@@ -28,6 +28,10 @@ npm start
 
 The server should now be running on `http://localhost:5000` (or whichever port you've configured).
 
+## Documentation
+For a detailed report on the backend architecture and implementation, please refer to the following document:
+Detailed Backend Report[https://drive.google.com/file/d/1pcs7cIJ-oMeorBXwACoag2t3WKkIduP-/view]
+
 ## Deployment
 
 The backend is currently deployed and accessible at:
